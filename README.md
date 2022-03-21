@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @virtualmartire
+- 👀 I’m interested in artificial intelligence and neural networks
+- 💞️ I’m looking to collaborate on applications of the aforesaid to enhance people's life
+- 📫 How to reach me: www.stefanomartire.it
